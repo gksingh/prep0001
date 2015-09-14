@@ -1,0 +1,4 @@
+D:\ForInterview\prep0001\prep0001\bin\Debug\prep0001.exe
+D:\ForInterview\prep0001\prep0001\bin\Debug\prep0001.pdb
+D:\ForInterview\prep0001\prep0001\obj\x86\Debug\prep0001.exe
+D:\ForInterview\prep0001\prep0001\obj\x86\Debug\prep0001.pdb
